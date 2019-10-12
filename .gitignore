@@ -1,0 +1,14 @@
+# Ignore anything named 'reveal.js'
+reveal.js
+
+# Ignore files with the extension 'slides.html'
+*.slides.html
+
+# Ignore folder named 'solution_code'
+solution_code/
+
+#Ignore folder named 'hw_submissions'
+hw_submissions/
+
+# Ignore files with the extension 'DS_Store'
+*.DS_Store
